@@ -7,6 +7,23 @@ body {
 }
 
 #toolbox {
-    height: 50px;
+    height: 20px;
     background-color: #f1f1f1;
+    padding: 20px 0;
+}
+
+#program-list {
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+#title {
+    display: inline-block;
+    color: white;
+    margin-left: 300px;
+    font-size: 30px;
+}
+
+#run {
+    margin-left: 300px;
 }
